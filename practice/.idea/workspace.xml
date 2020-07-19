@@ -19,26 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8a1e867-4fea-4d29-82d5-ccb89fc7a898" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.~lock.Laravel Tutorial Documentation.odt#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.~lock.Laravel Tutorial Dokumentation - Vuejs.odt#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.~lock.Laravel own documentation.odt#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.~lock.Lean Ocean and random documentation.odt#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.~lock.php own Documentaton.odt#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laravel Tutorial Documentation - Laravel from scratch.odt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laravel Tutorial Dokumentation - Vuejs.odt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laravel own documentation.odt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lean Ocean and random documentation.odt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php own Documentaton.odt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_practice.code-workspace" beforeDir="false" />
-    </list>
+    <list default="true" id="b8a1e867-4fea-4d29-82d5-ccb89fc7a898" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

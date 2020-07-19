@@ -5,7 +5,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Laravel</title>
-
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 
@@ -81,7 +80,13 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    <!--@34 #authentication #currentuser #login #content-->
+                    @auth
+                        Hello, {{Auth::user()->name}}
+                    @endauth
+                    @guest
+                        Please sign in
+                    @endguest
                 </div>
 
                 <div class="links">
