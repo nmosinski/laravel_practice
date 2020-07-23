@@ -20,3 +20,5 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');//->middleware('auth'); @34 #authentication #permission
+Route::get('/contact', 'ContactController@show')->name('contact.show');//->middleware('auth'); @34 #authentication #permission
+Route::post('/contact', 'ContactController@store')->name('contact.store');//->middleware('auth'); @34 #authentication #permission

@@ -19,7 +19,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8a1e867-4fea-4d29-82d5-ccb89fc7a898" name="Default Changelist" comment="" />
+    <list default="true" id="b8a1e867-4fea-4d29-82d5-ccb89fc7a898" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../practice2/laravel6/resources/views/contact.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice2/laravel6/resources/views/email/contact-me.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel_Tutorial_Documentation-Laravel_from_scratch.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel_Tutorial_Documentation-Laravel_from_scratch.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel_Tutorial_Dokumentation-Vuejs.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel_Tutorial_Dokumentation-Vuejs.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel_own_documentation.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel_own_documentation.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lean_Ocean_and_random_documentation.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lean_Ocean_and_random_documentation.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/laravel6/.idea/laravel6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice2/laravel6/.idea/laravel6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/laravel6/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice2/laravel6/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/laravel6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice2/laravel6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/laravel6/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../practice2/laravel6/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/laravel6/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../practice2/laravel6/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +70,10 @@
       <updated>1594909893617</updated>
       <workItem from="1594909894937" duration="31000" />
       <workItem from="1594909927624" duration="3140000" />
+      <workItem from="1595318560404" duration="1822000" />
+      <workItem from="1595484835862" duration="118000" />
+      <workItem from="1595485478812" duration="583000" />
+      <workItem from="1595487965099" duration="156000" />
     </task>
     <servers />
   </component>
@@ -73,5 +90,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
